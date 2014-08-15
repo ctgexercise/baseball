@@ -1,0 +1,8 @@
+require 'baseball/season_stat'
+require 'baseball/player'
+require 'baseball/players'
+require 'baseball/mlb_csv_parser'
+require 'baseball/record_calculator'
+require 'baseball/most_improved'
+require 'baseball/slugging_percentages'
+require 'baseball/triple_crown'
